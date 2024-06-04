@@ -28,18 +28,19 @@ _My name is Shuvo Dabnath. I am from Feni , Bangladesh._
 - Hindi : Intermediate 
 
 #  Sports / Game /Hobby / Activity :
- - Football 
- - Cricket
- - Badminton
+ - Football
+ - Cricket  
+ - Badminton 
  - Swimming
  - Phone Game
  - Coding
  - Music
+ - Travelling
 
 
 # Contact :
  - Email : **shuvo.fci10@gmail.com**
- - Facebook : **shuvo.dabnath.73** 
+ - Facebook : **https://www.facebook.com/shuvo.dabnath.73** 
 
 
 
